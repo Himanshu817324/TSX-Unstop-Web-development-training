@@ -1,0 +1,10 @@
+/* Task 2: Style heading and paragraph */
+h1 {
+  color: #2e86de;
+  /* Blue */
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
